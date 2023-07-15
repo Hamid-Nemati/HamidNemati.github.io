@@ -2624,7 +2624,7 @@
 /* One */
 
 	#one:before {
-		background-image: url("/images/Header.jpg");
+		background-image: url("https://github.com/Hamid-Nemati/Resume/blob/main/images/Header.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
