@@ -2614,7 +2614,7 @@
 
 		#main > section > .container {
 			width: 75%;
-			padding: 6em 0 4em 0;
+			padding: 2em 0 2em 0;
 		}
 
 		#main > section:first-child {
@@ -2624,13 +2624,13 @@
 /* One */
 
 	#one:before {
-		background-image: url("/images/Header.jpg");
+		/*background-image: url("/images/Header.jpg");*/
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 45em;
+		height: 0em;
 		width: 100%;
 	}
 
@@ -2702,7 +2702,7 @@
 		/* Main */
 
 			#main > section > .container {
-				padding: 4em 0 2em 0;
+				padding: 2em 0 2em 0;
 			}
 
 	}
