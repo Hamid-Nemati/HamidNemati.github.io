@@ -2623,20 +2623,6 @@
 
 /* One */
 
-	#one:before {
-<<<<<<< HEAD
-		/*background-image: url("/images/Header.jpg");*/
-=======
-		background-image: url("https://github.com/Hamid-Nemati/Resume/blob/main/images/Header.jpg");
->>>>>>> 93ea022424e6fd5d6afd25fa6df673e21ceaab5b
-		background-position: top right;
-		background-repeat: no-repeat;
-		background-size: cover;
-		content: '';
-		display: block;
-		height: 0em;
-		width: 100%;
-	}
 
 /* Footer */
 
